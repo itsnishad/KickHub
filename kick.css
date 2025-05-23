@@ -46,7 +46,7 @@ body{
     transform: scale(1.1);
 }
 .photo{
-    background:url("https://crepdogcrew.com/cdn/shop/collections/Tab_Banners_1.png?v=1746988280&width=1400");
+    background:url("./Assets/pexels-rdne-5698853.jpg");
     height: 90vh;
     background-size: cover;
 
